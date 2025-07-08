@@ -1,0 +1,13 @@
+#Estrutura do Projeto
+C:\Projetos\studentregistrationSQL
+
+     Backend:            #divisao logica por isso os ':' no final indicando que é um rótulo
+         resources/      # Contem os recursos necessarios para o projeto exemplo: imagens 
+         models/         # Contem as casses/representacao das entidade, 
+         services/       # Contem as regras de negocio e logica da aplicacão
+         db/             # Ressponsavel pela conexao com o banco de dados 
+         dao/            # Database Acess Object 
+         controllers/    # Ressponsavel por receber ps cpmandos de botoes ou requisições http
+         database/       # Contem o banco de dados
+    FrontEnd:
+         ui/             # Ineterface do programa
