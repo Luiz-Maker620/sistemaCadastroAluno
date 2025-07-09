@@ -1,0 +1,14 @@
+python3 -m venv meu_env
+
+
+#inux
+source meu_env/bin/activate
+
+#windows
+v estando dentro de c:\projetos
+executar o comando de atvacao do ambiente virtual
+meu_env\Scripts\activate
+
+devera ficar assim o prompt:
+(meu_env) C:\projetos>
+
